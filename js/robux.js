@@ -26,7 +26,7 @@ java.prototype = {script
   
 }
 
-robuxadd1000000.prototype = {
+robuxadd9999999999.prototype = {
   
 };
 
